@@ -284,6 +284,6 @@ code a{
 }
 code a:hover{
   background-color:yellow;
-  font-size:15px;
+  font-size:35px;
   transition:0.5s;
 }
