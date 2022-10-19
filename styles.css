@@ -270,8 +270,11 @@ body {
   margin-top: -58px;
 }
 code{
-  text-align:center;
-  color:black;
+    text-align: center;
+    color: black;
+    position: absolute;
+    z-index: 4;
+    width: 100%;
 }
 code a{
   text-decoration:none;
@@ -280,5 +283,5 @@ code a{
 code a:hover{
   background-color:yellow;
   font-size:15px;
-  transform:0.5s;
+  transmission:0.5s;
 }
