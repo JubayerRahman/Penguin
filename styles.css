@@ -269,3 +269,16 @@ body {
   position: absolute;
   margin-top: -58px;
 }
+code{
+  text-align:center;
+  color:black;
+}
+code a{
+  text-decoration:none;
+  color:black;
+}
+code a:hover{
+  background-color:yellow;
+  font-size:15px;
+  transform:0.5s;
+}
