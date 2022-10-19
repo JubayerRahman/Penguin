@@ -270,6 +270,8 @@ body {
   margin-top: -58px;
 }
 code{
+    margin-top:20px
+    font-sixe:20px;
     text-align: center;
     color: black;
     position: absolute;
@@ -283,5 +285,5 @@ code a{
 code a:hover{
   background-color:yellow;
   font-size:15px;
-  transmission:0.5s;
+  transition:0.5s;
 }
